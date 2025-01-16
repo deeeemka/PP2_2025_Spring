@@ -1,7 +1,0 @@
-main commands:
-
-git add practices/1week
-
-git commit
-
-git push
